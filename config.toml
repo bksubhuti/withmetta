@@ -1,4 +1,4 @@
-baseURL = 'https:///withmetta.net/'
+baseURL = 'https://withmetta.net/'
 languageCode = 'en-us'
 title = 'With Metta'
 theme = "ananke"
